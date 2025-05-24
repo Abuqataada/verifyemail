@@ -1,4 +1,5 @@
 const userData = [
+    { "full_name": "Principal", "email": "principal@arndaleacademy.com" },
     { "full_name": "Helen Akaji", "email": "helen.akaji@arndaleacademy.com" },
     { "full_name": "Mayos Favour", "email": "mayos.favour@arndaleacademy.com" },
     { "full_name": "Abdullahi Biliya", "email": "abdullahi.biliya@arndaleacademy.com" },
