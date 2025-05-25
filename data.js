@@ -1,5 +1,5 @@
 const userData = [
-    { "full_name": "Principal", "email": "principal@arndaleacademy.com" },
+    { "full_name": "Mrs. Helen Akaji (Principal)", "email": "principal@arndaleacademy.com" },
     { "full_name": "Helen Akaji", "email": "helen.akaji@arndaleacademy.com" },
     { "full_name": "Mayos Favour", "email": "mayos.favour@arndaleacademy.com" },
     { "full_name": "Abdullahi Biliya", "email": "abdullahi.biliya@arndaleacademy.com" },
@@ -33,5 +33,12 @@ const userData = [
     { "full_name": "Ukpabi Emmanuel Amaechi", "email": "ukpabi.emmanuel.amaechi@arndaleacademy.com" },
     { "full_name": "Eze Vincent Chijoke", "email": "eze.vincent.chijoke@arndaleacademy.com" },
     { "full_name": "Zakari Mohammed Ahmed", "email": "zakari.mohammed.ahmed@arndaleacademy.com" },
-    { "full_name": "Safiya Abubakar Idris", "email": "safiya.abubakar.idris@arndaleacademy.com" }
+    { "full_name": "Safiya Abubakar Idris", "email": "safiya.abubakar.idris@arndaleacademy.com" },
+    { "full_name": "Blessing Anieze", "email": "blessing.anieze@arndaleacademy.com" },
+    { "full_name": "Enwelu Stephen", "email": "enwelu.stephen@arndaleacademy.com" },
+    { "full_name": "Vivian Tolu", "email": "vivian.tolu@arndaleacademy.com" },
+    { "full_name": "Senkwoet Grace", "email": "senkwoet.grace@arndaleacademy.com" },
+    { "full_name": "Oziyi Joseph", "email": "oziyi.joseph@arndaleacademy.com" },
+    { "full_name": "Theresa Ekpeti", "email": "theresa.ekpeti@arndaleacademy.com" },
+    { "full_name": "Adebayo Jonathan", "email": "adebayo.jonathan@arndaleacademy.com" }
 ];
