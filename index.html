@@ -25,6 +25,15 @@
             border: 1px solid #ccc;
             border-radius: 4px;
         }
+        .input-group {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 10px;
+        }
+        .input-group label {
+            min-width: 50px; /* Adjust as needed */
+        }
         button {
             background-color: #007BFF;
             color: white;
@@ -44,9 +53,12 @@
     </style>
 </head>
 <body>
-
+    
     <h3>Do I have Arndale official email?</h3>
-    <input type="text" id="nameInput" placeholder="Enter first and/or last name">
+    <div class="input-group">
+        <label for="nameInput">Name:</label>
+        <input type="text" id="nameInput" placeholder="Enter first and/or last name">
+    </div>
     <button onclick="checkEmail()">Verify</button>
     <div id="result"></div>
 
